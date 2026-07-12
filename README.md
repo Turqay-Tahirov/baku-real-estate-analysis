@@ -7,11 +7,20 @@ Bu layihə, 2026-cı ilin iyul ayında Bina.az platformasından çıxarılmış 
 
 ## ❓ Layihənin Cavab Tapdığı 5 Kritik Biznes Sualı
 
-1. **Bazar Manipulyasiyası və İnhisarçılıq:** Elanların nə qədəri Agentliklərin (rieltorların), nə qədəri fərdi şəxslərin (Sahibinin) əlindədir? Eyni ərazidə agentliklər qiyməti orta hesabla neçə faiz süni şəkildə şişirdirlər?
-2. **Coğrafi Qiymət Dürüstlüyü:** Bakının 1 kvadratmetrə ($Qiymət / m^2$) görə real rəqəmsal qiymət xəritəsi nə deyir? Şəhər mərkəzindən uzaqlaşdıqca kvadratmetr səmərəliliyi necə dəyişir?
-3. **Mərtəbə Cəzası:** Mənzilin yerləşdiyi mərtəbə (məsələn: 1-ci mərtəbə və ya sonuncu mərtəbə/mansard) mülkün real bazar dəyərindən neçə faiz "kəsir"?
-4. **Gizli Fürsətlərin Tapılması:** 50 minlik data dənizindən riyazi metodlarla (IQR/Z-score) bazar qiymətindən 20-25% aşağı qoyulmuş real "Təcili Elanları" avtomatik necə süzə bilərik?
-5. **Sahə Elastikliyi:** Mənzilin ümumi sahəsi ($m^2$) böyüdükcə kvadratmetrin qiyməti ucuzlaşır, yoxsa "böyük ev lüksdür" məntiqi ilə daha da bahalaşır?
+1. **Rieltorlar (Agentliklər) bazarı nə dərəcədə ələ keçirib?**
+   * *Sadə dildə:* Saytdakı elanların neçə faizi maklerlərə, neçə faizi ev sahibinə məxsusdur? Agentliklər eyni ərazidə qiyməti ev sahibindən nə qədər baha qoyaraq süni artım yaradırlar?
+
+2. **Bakının real kvadratmetr bahalığı xəritəsi nə deyir?**
+   * *Sadə dildə:* 1 kvadratmetrə ($Qiymət / m^2$) görə Bakının ən baha və ən ucuz zonaları haralardır? Evin sahəsi böyüdükcə kvadratmetr ucuzlaşır, yoxsa "böyük ev lüksdür" deyə daha da bahalaşır?
+
+3. **"Mərtəbə Cəzası" qiyməti neçə faiz aşağı salır?**
+   * *Sadə dildə:* Bakıda çox adam "rütubətlidir" deyə 1-ci mərtəbəni, "damı axar, lifti xarab olar" deyə sonuncu mərtəbəni (mansardı) almır. Alıcı az olduğu üçün bu mənzillərin qiyməti orta mərtəbələrdən real olaraq neçə faiz ucuzlaşır?
+
+4. **Dəniz kimi datadan "Qızıl Fürsət" (Ucuz) evləri necə tapa bilərik?**
+   * *Sadə dildə:* 50 min elanın içindən, satıcısının təcili pula ehtiyacı olduğu üçün bazar qiymətindən 20-25% aşağı qoyulmuş real "Kələpir" evləri riyazi alqoritmlə necə tutub investora təqdim edə bilərik?
+
+5. **Hansı otaqlı evlər bazarda daha çoxdur və daha tez satıla bilər?**
+   * *Sadə dildə:* Tikinti şirkətləri və investorlar üçün bazarın "qızıl ortasını" tapırıq – Bakıda ən çox təklif olunan və alıcısı hazır olan mənzil profili (məsələn, 2 otaqlı 60 $m^2$, yoxsa 3 otaqlı) hansıdır?
 
 ---
 
