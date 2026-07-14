@@ -21,7 +21,7 @@ Bu layihə, 2026-cı ilin iyul ayında Bina.az platformasından çıxarılmış 
 <summary><b>2. Bakının real kvadratmetr bahalığı xəritəsi nə deyir?</b></summary>
 <blockquote>
   <ul>
-    <li>1 kvadratmetrə görə (<img src="https://latex.codecogs.com/svg.image?\color{Orange}\text{Qiym%C9%99t}&space;/&space;m^2" title="Qiymət / m²" />) Bakının ən baha və ən ucuz zonaları (rayon və qəsəbələri) haralardır?</li>
+    <li>1 kvadratmetrə görə qiymət Bakının ən baha və ən ucuz zonaları (rayon və qəsəbələri) haralardır?</li>
     <li>Evin sahəsi böyüdükcə kvadratmetr qiyməti ucuzlaşır, yoxsa <i>"böyük ev lüksdür"</i> yanaşması ilə daha da bahalaşır?</li>
   </ul>
 </blockquote>
