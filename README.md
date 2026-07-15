@@ -74,7 +74,7 @@ Bu layihə, 2026-cı ilin iyul ayında Bina.az platformasından çıxarılmış 
 
 ## 🚧 Cari Status: [İcra Olunur]
 * [x] Biznesin Anlanılması və Hipotezlərin Qurulması
-* [x] Datanın Toplanması (Rayonlar üzrə CSV faylları)
+* [ ] ⏳ Datanın Toplanması (Rayonlar üzrə CSV faylları)
 * [ ] Python ilə Data Təmizləmə və ETL prosesi
 * [ ] Kəşfiyyatçı Data Analizi (Python EDA & Qrafiklər)
 * [ ] SQL Bazasının Qurulması və Analitik Sorğular
@@ -109,9 +109,6 @@ Bu problem datanın emalı (ETL) mərhələsində Python ilə oxunarkən **UTF-8
 <pre><code># Azərbaycan şriftlərinin düzgün oxunması üçün UTF-8-sig tətbiqi
 df = pd.read_csv('raw_data.csv', encoding='utf-8-sig')</code></pre>
 
-### 🔄 Növbəti Addım (Data ETL Pipeline):
-
-Bütün rayonların məlumatları tamamlandıqdan sonra, Python (`Pandas` kitabxanası) vasitəsilə bütün datalar tək bir master DataFrame-də birləşdiriləcək və təmizləmə (Data Cleaning) mərhələsinə ötürüləcək.
 ---
 ### 🔄 Növbəti Addım (Data ETL Pipeline):
 Bütün rayonların məlumatları tamamlandıqdan sonra, Python (`Pandas` kitabxanası) vasitəsilə bütün datalar tək bir master DataFrame-də birləşdiriləcək və təmizləmə (Data Cleaning) mərhələsinə ötürüləcək.
