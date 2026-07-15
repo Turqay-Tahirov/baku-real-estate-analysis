@@ -80,3 +80,31 @@ Bu layihə, 2026-cı ilin iyul ayında Bina.az platformasından çıxarılmış 
 * [ ] SQL Bazasının Qurulması və Analitik Sorğular
 * [ ] Power BI Dashboard Dizaynı
 * [ ] Biznes Strategiyasının Hazırlanması və Portfolionun Tamamlanması
+
+
+---
+
+## 🗄️ Məlumatların Toplanması (Data Scraping)
+
+Layihədə analiz ediləcək daşınmaz əmlak elanları veb-skrapinq vasitəsilə birbaşa onlayn platformadan yığılmışdır. Skrapinq prosesinin stabil olması üçün məlumatlar rayonlar üzrə hissə-hissə toplanır və növbəti mərhələdə vahid bir verilənlər bazasında (master-data) birləşdirilir.
+
+### 🛠️ İstifadə Olunan Alətlər:
+* **Web Scraper (Browser Extension):** Elanların avtomatik toplanması, səhifələnmənin (pagination) idarə olunması və datanın CSV formatında ixracı üçün istifadə edilmişdir.
+
+### 📊 Cari Data Toplanma Statusu (Scraping Progress)
+
+Hazırda Bakı şəhərinin əksər rayonları üzrə məlumatlar uğurla toplanmışdır. Qalan rayonların yığılması isə davam edir:
+
+| Rayon / Ərazi | Status |
+| :--- | :---: |
+| **Nizami** |  Hazırdır (Çəkilib) |
+| **Xətai** |  Hazırdır (Çəkilib) |
+| **Xəzər** |  Hazırdır (Çəkilib) |
+| **Pirallahı, Suraxanı, Qaradağ** |  Hazırdır (Çəkilib) |
+| **Yasamal** |  Yığılır (Gözlənilir) |
+| **Nərimanov** |  Yığılır (Gözlənilir) |
+
+---
+
+### 🔄 Növbəti Addım (Data ETL Pipeline):
+Bütün rayonların məlumatları tamamlandıqdan sonra, Python (`Pandas` kitabxanası) vasitəsilə bütün datalar tək bir master DataFrame-də birləşdiriləcək və təmizləmə (Data Cleaning) mərhələsinə ötürüləcək.
