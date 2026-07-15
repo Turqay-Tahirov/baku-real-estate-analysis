@@ -93,17 +93,35 @@ Layihədə analiz ediləcək daşınmaz əmlak elanları veb-skrapinq vasitəsil
 
 ### 📊 Cari Data Toplanma Statusu (Scraping Progress)
 
-Hazırda Bakı şəhərinin əksər rayonları üzrə məlumatlar uğurla toplanmışdır. Qalan rayonların yığılması isə davam edir:
+Hazırda Bakı şəhəri və ətraf ərazilərin demək olar ki, bütün əsas rayonları üzrə məlumatlar uğurla toplanmışdır. Layihənin bu hissəsi dinamikdir və qalan son bir neçə rayonun yığılması davam edir:
 
 | Rayon / Ərazi | Status |
 | :--- | :---: |
-| **Nizami** |  Hazırdır (Çəkilib) |
-| **Xətai** |  Hazırdır (Çəkilib) |
-| **Xəzər** |  Hazırdır (Çəkilib) |
-| **Pirallahı, Suraxanı, Qaradağ** |  Hazırdır (Çəkilib) |
-| **Yasamal** |  Yığılır (Gözlənilir) |
-| **Nərimanov** |  Yığılır (Gözlənilir) |
+| **Abşeron r.** |  Hazırdır (Çəkilib) |
+| **Binəqədi r.** |  Hazırdır (Çəkilib) |
+| **Nizami r.** |  Hazırdır (Çəkilib) |
+| **Nəsimi r.** |  Hazırdır (Çəkilib) |
+| **Pirallahı r.** |  Hazırdır (Çəkilib) |
+| **Qaradağ r.** |  Hazırdır (Çəkilib) |
+| **Sabunçu r.** |  Hazırdır (Çəkilib) |
+| **Səbail r.** |  Hazırdır (Çəkilib) |
+| **Suraxanı r.** |  Hazırdır (Çəkilib) |
+| **Xətai r.** |  Hazırdır (Çəkilib) |
+| **Xəzər r.** |  Hazırdır (Çəkilib) |
+| **Yasamal r.** |  Yığılır (Gözlənilir) |
+| **Nərimanov r.** |  Yığılır (Gözlənilir) |
 
+---
+
+### ⚠️ Kodlaşdırma (Encoding) Probleminin Həlli
+
+Veb-skrapinq zamanı Azərbaycan hərflərinin (ə, ö, ü, ş, ç, ı, ğ) pozularaq sistemə səhv simvollarla (məsələn: `ElmlE™r AkademiyasÄ± m.`, `3 otaqlÄ±` və s.) yazılması problemi aşkarlanmışdır.
+
+Bu problem datanın emalı (ETL) mərhələsində Python ilə oxunarkən **UTF-8 (utf-8-sig)** formatında məcburi kodlaşdırılaraq tamamilə aradan qaldırılacaqdır:
+
+
+# Azərbaycan şriftlərinin düzgün oxunması üçün UTF-8-sig tətbiqi
+df = pd.read_csv('raw_data.csv', encoding='utf-8-sig')
 ---
 
 ### 🔄 Növbəti Addım (Data ETL Pipeline):
