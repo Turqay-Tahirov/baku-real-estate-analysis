@@ -106,10 +106,12 @@ Veb-skrapinq zamanı Azərbaycan hərflərinin (ə, ö, ü, ş, ç, ı, ğ) pozu
 
 Bu problem datanın emalı (ETL) mərhələsində Python ilə oxunarkən **UTF-8 (utf-8-sig)** formatında məcburi kodlaşdırılaraq tamamilə aradan qaldırılacaqdır:
 
+<pre><code># Azərbaycan şriftlərinin düzgün oxunması üçün UTF-8-sig tətbiqi
+df = pd.read_csv('raw_data.csv', encoding='utf-8-sig')</code></pre>
 
-# Azərbaycan şriftlərinin düzgün oxunması üçün UTF-8-sig tətbiqi
-df = pd.read_csv('raw_data.csv', encoding='utf-8-sig')
+### 🔄 Növbəti Addım (Data ETL Pipeline):
+
+Bütün rayonların məlumatları tamamlandıqdan sonra, Python (`Pandas` kitabxanası) vasitəsilə bütün datalar tək bir master DataFrame-də birləşdiriləcək və təmizləmə (Data Cleaning) mərhələsinə ötürüləcək.
 ---
-
 ### 🔄 Növbəti Addım (Data ETL Pipeline):
 Bütün rayonların məlumatları tamamlandıqdan sonra, Python (`Pandas` kitabxanası) vasitəsilə bütün datalar tək bir master DataFrame-də birləşdiriləcək və təmizləmə (Data Cleaning) mərhələsinə ötürüləcək.
