@@ -95,8 +95,8 @@ Layihədə analiz ediləcək daşınmaz əmlak elanları veb-skrapinq vasitəsil
 
 Hazırda Bakı şəhəri və ətraf ərazilərin demək olar ki, bütün əsas rayonları üzrə məlumatlar uğurla toplanmışdır. Layihənin bu hissəsi dinamikdir və qalan son bir neçə rayonun yığılması davam edir:
 
-* **Çəkilmiş rayonlar (Hazırdır):** Abşeron, Binəqədi, Nizami, Nəsimi, Pirallahı, Qaradağ, Sabunçu, Səbail, Suraxanı, Xətai, Xəzər r.
-* **Yığılan rayonlar (Gözlənilir):** Yasamal, Nərimanov r.
+* **Çəkilmiş rayonlar (Hazırdır):** Abşeron, Binəqədi, Nizami, Nəsimi, Pirallahı, Qaradağ, Sabunçu, Səbail, Suraxanı, Xətai, Xəzər r, Yasamal.
+* **Yığılan rayonlar (Gözlənilir):** Nərimanov r.
 
 ---
 
