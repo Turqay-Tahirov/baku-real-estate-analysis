@@ -81,7 +81,6 @@ Bu layihə, 2026-cı ilin iyul ayında Bina.az platformasından çıxarılmış 
 * [ ] Power BI Dashboard Dizaynı
 * [ ] Biznes Strategiyasının Hazırlanması və Portfolionun Tamamlanması
 
-
 ---
 
 ## 🗄️ Məlumatların Toplanması (Data Scraping)
