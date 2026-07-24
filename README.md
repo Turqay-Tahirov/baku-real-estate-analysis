@@ -97,7 +97,9 @@ Hazırda Bakı şəhəri və ətraf ərazilərin demək olar ki, bütün əsas r
 * **Çəkilmiş rayonlar (Hazırdır):** Abşeron, Binəqədi, Nizami, Nəsimi, Pirallahı, Qaradağ, Sabunçu,Xırdalan, Səbail, Suraxanı, Xətai, Xəzər r, Yasamal, Nərimanov r.
 * **Yığılan rayonlar (Gözlənilir):** Bütün rayonlar çəkildi.
 
+
 ---
+
 
 ### ⚠️ Kodlaşdırma (Encoding) Probleminin Həlli
 
