@@ -74,7 +74,7 @@ Bu layihə, 2026-cı ilin iyul ayında Bina.az platformasından çıxarılmış 
 
 ## 🚧 Cari Status: [İcra Olunur]
 * [x] Biznesin Anlanılması və Hipotezlərin Qurulması
-* [ ] ⏳ Datanın Toplanması (Rayonlar üzrə CSV faylları)
+* [x] ⏳ Datanın Toplanması (Rayonlar üzrə CSV faylları)
 * [ ] Python ilə Data Təmizləmə və ETL prosesi
 * [ ] Kəşfiyyatçı Data Analizi (Python EDA & Qrafiklər)
 * [ ] SQL Bazasının Qurulması və Analitik Sorğular
