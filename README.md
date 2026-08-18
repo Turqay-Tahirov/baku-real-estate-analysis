@@ -98,7 +98,9 @@ Hazırda Bakı şəhəri və ətraf ərazilərin demək olar ki, bütün əsas r
 * **Yığılan rayonlar (Gözlənilir):** Bütün rayonlar çəkildi.
 
 
+
 ---
+
 
 
 ### ⚠️ Kodlaşdırma (Encoding) Probleminin Həlli
