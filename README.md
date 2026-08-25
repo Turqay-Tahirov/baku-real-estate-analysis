@@ -8,15 +8,6 @@ Bu layihə, 2026-cı ilin iyul ayında Bina.az platformasından çıxarılmış 
 ## ❓ Layihənin Cavab Tapdığı 5 Kritik Biznes Sualı
 
 <details open>
-<summary><b>1. Rieltorlar (Agentliklər) bazarı nə dərəcədə ələ keçirib?</b></summary>
-<blockquote>
-  <ul>
-    <li>Saytdakı elanların neçə faizi maklerlərə (agentliklərə), neçə faizi birbaşa ev sahiblərinə məxsusdur?</li>
-    <li>Agentliklər eyni ərazidə qiyməti ev sahibindən nə qədər baha qoyaraq süni qiymət artımı yaradırlar?</li>
-  </ul>
-</blockquote>
-</details>
-
 <details open>
 <summary><b>2. Bakının real kvadratmetr bahalığı xəritəsi nə deyir?</b></summary>
 <blockquote>
