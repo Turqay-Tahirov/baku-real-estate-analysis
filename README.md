@@ -46,6 +46,19 @@ Bu layihə, 2026-cı ilin iyul ayında Bina.az platformasından çıxarılmış 
 </blockquote>
 </details>
 ---
+1) harda menziller ucuzdu?
+Hansı rayon/qəsəbədə $1 m^2$-in ortalama qiyməti ən ucuz və ən bahadır?
+2) meselen agentlikle ferdi sahibkarin elanlarinda ne ferqi var yeni hansi daha uygundu sahe qiymet otaq sayi?
+3) mertebenin qiymete tesiri var?
+4) gunun hansi saatinda elan daha coxdu?
+5) may-iyul aylarinda hansi gun daha coxdu?
+6) daha cox hansi tip elanlar(menziller) paylasilir meselen otaq sahe mertebe?
+7) en cox qiymete ne tesir edir?
+8) en bahali unvanla en ucuz unvan
+9) daha ucuz alib daha baha sat bileceyim menzil hansi olar?
+10) normal olaraq otaq sayi artdiqca sahe artir. amma sahesi cox olub otaq sayi az olan menzili tapib 
+    daha sonra otaq sayini artirib satmaq olar? bu hansi menzillerdi?
+---
 
 ## 🛠️ Texniki İş Axımı və Problemlərin Həlli (Technical Workflow)
 
