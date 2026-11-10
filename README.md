@@ -1,7 +1,7 @@
 # 🏢 Bakı Daşınmaz Əmlak Bazarının Data Analitikası (Bina.az)
 
 ## 🎯 Layihə Haqqında (Project Overview)
-Bu layihə, 2026-cı ilin iyun,iyul ayında Bina.az platformasından çıxarılmış ~50,000 elandan ibarət real məlumat bazasının analizinə həsr olunub. Layihə sadə bir "hesabat hazırlamaq" məqsədi daşımır; burada tamamilə **Problem Həll Etmə (Problem-Solving) və Biznes Yönümlü** yanaşma tətbiq edilərək, bazardakı süni qiymət manipulyasiyaları, struktur faktorların qiymətə təsiri və investorlar üçün gizli fürsətlər araşdırılıb.
+Bu layihə, 2026-cı ilin iyun,iyul aylar;ında Bina.az platformasından çıxarılmış ~50,000 elandan ibarət real məlumat bazasının analizinə həsr olunub. Layihə sadə bir "hesabat hazırlamaq" məqsədi daşımır; burada tamamilə **Problem Həll Etmə (Problem-Solving) və Biznes Yönümlü** yanaşma tətbiq edilərək, bazardakı süni qiymət manipulyasiyaları, struktur faktorların qiymətə təsiri və investorlar üçün gizli fürsətlər araşdırılıb.
 
 ---
 
